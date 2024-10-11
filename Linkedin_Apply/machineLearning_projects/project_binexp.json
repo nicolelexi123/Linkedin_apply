@@ -1,0 +1,13 @@
+{
+    "00_intro": "dc040bd5a50427bc2454eaaaa0b80887701c1d49d775523f88d6cc8a5088722ff08685594ef7c19f3cb318c5d5d9c4b1",
+    "01_bb_steps": "59453be116c6299a3c10db0ab1d605a1db78c643df6c9019c868bf8781dddedff08685594ef7c19f3cb318c5d5d9c4b1",
+    "01_basic_overflow_1": "c982949eef487f4b085c56f4eb9fe5ba91c97be3a3d4ad907e995a13b7ef31a0f08685594ef7c19f3cb318c5d5d9c4b1",
+    "01_basic_overflow_2": "4770af8b8f97fcfe4f4d6fe8c31e576413f2ac6d8306f949c483239c36034288f08685594ef7c19f3cb318c5d5d9c4b1",
+    "02_assemble_the_assembly": "01e99ffc2b4628bb0ec2154fc461048f33bebd64fdadd02c26bec1aaf1727ce3f08685594ef7c19f3cb318c5d5d9c4b1",	
+    "02_bad_rando": "08c08fbdc69ebd71bd03baf3eb72ccc5e6fad4ae38ed46f2fa39720c7783cd93f08685594ef7c19f3cb318c5d5d9c4b1",
+    "02_p4s5w0rd": "f06ce636b2a6c0b4b9f9f0ce0503295be68b668357775da95c5d72a694023a57f08685594ef7c19f3cb318c5d5d9c4b1",	
+    "02_the_server_client_one": "<copy flag here>",
+    "03_XORbius": "<copy flag here>",
+    "03_pointy_pointy_point": "<copy flag here>",
+    "03_hunt_then_rop": "<copy flag here>"
+}

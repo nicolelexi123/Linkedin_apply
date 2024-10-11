@@ -1,0 +1,16 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 1
+
+--- Details ---
+Test #0: failed 
+Description: Test Case 11: Bagging with New Data (group: BagLearner)
+IncorrectOutput: Test failed on one or more output criteria.
+  Inputs:
+    data file: simple.csv
+    permutation: [17  0  3  6 25 15 40 23 36 38 31 12 42 46 27 21 18 44 49 19 30 13 34 29
+ 11  4  1 16 47 20 24 33 35 39 43  2 41 14  5 45  7 37  8 28 32 48  9 26
+ 22 10]
+  Failures:
+    Out-of-sample correlation for 20 bags is not greater than for 1 bag. 20 bags:1.0, 1 bag:1.0
+
+</pre>

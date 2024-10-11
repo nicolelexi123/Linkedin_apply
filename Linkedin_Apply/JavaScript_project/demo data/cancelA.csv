@@ -1,0 +1,7 @@
+cancel_by,itemID,datetime,reason
+mred,5,2024-02-03 20:09:19,Item is no longer available.
+jgreen,21,2024-02-26 07:27:49,Item is no longer available.
+tblue,22,2024-02-23 17:11:40,User requested. Wrong minimum price.
+tblue,43,2024-03-09 05:44:37,User requested. Wrong minimum price.
+user3,47,2024-03-02 11:41:18,
+jgreen,53,2024-03-14 07:05:17,User can no longer be reached.

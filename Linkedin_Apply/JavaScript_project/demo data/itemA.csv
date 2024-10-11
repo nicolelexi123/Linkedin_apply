@@ -1,0 +1,55 @@
+itemID,username,name,description,categoryID,condition,start_bid,min_sale,auction_length,get_it_now,returnable,start_datetime
+1,pbrown,good book,good book,2,New,20.0,50.0,3,80.0,True,2024-01-30 22:48:14
+2,pbrown,good book,the best book,2,Good,10.0,18.63,3,70.0,False,2024-02-04 22:44:31
+3,mred,painting,good picture,1,Very Good,100.0,200.0,3,300.0,True,2024-01-31 12:36:32
+4,mred,plant,graet plant,4,Very Good,500.0,538.16,3,1000.0,False,2024-02-03 15:21:29
+5,mred,computer1,old computer,3,Fair,300.0,500.0,3,750.0,True,2024-02-01 16:32:22
+6,jgreen,skates,for skating,5,New,250.0,350.0,3,450.0,False,2024-04-18 23:59:00
+7,pbrown,plant,another plant,7,Good,40.0,60.0,3,70.0,True,2024-02-07 20:53:26
+8,tblue,lego toy,"very insteresting toy
+this is not very informative description",6,Very Good,30.0,50.0,3,75.0,False,2024-04-18 23:59:00
+9,jgreen,sculpture,expensive,1,Very Good,1000.0,1058.53,3,3000.0,False,2024-04-18 23:59:00
+10,tblue,good book,one more good book,2,New,50.0,58.93,3,,True,2024-02-08 10:59:05
+11,tblue,good book,book posted after some time,2,Fair,25.0,55.0,3,75.0,False,2024-04-18 23:59:00
+12,mred,item with really long name how would it show,this is an item with really long nme to test if it would be acceptable in all creens,7,New,100.0,122.68,3,,True,2024-02-16 13:44:50
+13,tblue,Garmin GPS,Brand new last model GPS,3,New,200.0,350.0,3,,True,2024-04-18 23:59:00
+14,jgreen,later GPS,GPS listed later,3,New,300.0,400.0,3,600.0,False,2024-04-18 23:59:00
+15,jgreen,still later GPS,still later GPS,3,New,400.0,600.0,3,,True,2024-04-18 23:59:00
+16,jgreen,still still later GPS,still still later GPS,3,New,500.0,501.95,3,,True,2024-02-19 09:11:06
+17,ablack,good book,new book listed ,2,New,20.0,50.0,3,100.0,True,2024-02-15 12:43:22
+18,ablack,plant,great gazebo,4,Good,1000.0,2000.0,3,3000.0,False,2024-04-18 23:59:00
+19,tblue,painting,pretty good painting,1,New,300.0,500.0,3,700.0,False,2024-02-15 13:33:38
+20,tblue,Art Albom,Albom of classic art illustrations,1,New,250.0,250.81,3,750.0,False,2024-02-24 16:38:54
+21,jgreen,Art Albom,listed by jgreen,1,New,100.0,200.0,3,,False,2024-02-24 16:44:17
+22,tblue,ite with very long name just to see how it works,item with long name,7,New,10.0,30.0,3,50.0,True,2024-02-20 17:52:13
+23,pbrown,now i want to make the item name as long as i can and even longer than anyone of the iotems I amde before,long name again,7,New,20.0,50.0,3,75.0,False,2024-04-18 23:59:00
+24,pbrown,once again item with very long item name and how it will be seen in the tables which i will be creating,again long item name,7,New,10.0,20.0,3,30.0,False,2024-04-18 23:59:00
+25,jgreen,item to buy,just to have it bought,7,New,15.0,25.0,3,35.0,True,2024-02-20 15:34:01
+26,mred,furby,old toy,6,Good,50.0,60.0,3,70.0,False,2024-02-20 15:46:55
+27,pbrown,Nexus,tablet,3,New,100.0,150.0,3,200.0,True,2024-02-20 15:51:26
+28,pbrown,once again just to buy,just to buy,7,New,5.0,10.0,3,15.0,False,2024-02-20 15:59:57
+29,pbrown,third one to buy,third to buy,7,Poor,5.0,10.0,3,18.0,False,2024-02-20 16:04:04
+30,pbrown,fourth to sell immediately,to sell,7,Poor,10.0,15.0,3,20.0,False,2024-02-20 16:06:46
+31,pbrown,fifth for sale immediate,for sale immediate fifth,7,New,4.0,10.0,3,15.0,False,2024-02-20 16:16:24
+32,pbrown,sixth to sell immediate,sixth to sell immedaite,7,New,3.0,5.0,3,7.0,True,2024-02-20 16:22:33
+33,pbrown,eigth to check for asale immediate,eighth to sell,7,Poor,2.0,4.0,3,6.0,True,2024-02-20 16:27:02
+34,tblue,ninth to sell,ninth to sell,1,New,1.0,3.0,3,5.0,True,2024-02-20 16:32:06
+35,trichards,detective novel,Interesting spy novel,2,New,20.0,30.0,3,40.0,False,2024-02-29 19:41:39
+36,ablack,sculpture,ancient sculpture,1,Very Good,100.0,350.0,3,,False,2024-03-03 19:36:56
+37,jgreen,my item,very simple item,7,Poor,1.0,5.0,3,10.0,True,2024-03-01 21:43:55
+38,jsmith,good book,Spanish-English,2,New,30.0,40.0,3,50.0,False,2024-04-18 23:59:00
+39,jsmith,sculpture,not so old sculpture,1,Very Good,200.0,400.0,3,600.0,False,2024-03-04 13:49:58
+40,ablack,something,strange thing,7,Good,10.0,15.0,3,30.0,False,2024-03-04 13:35:02
+41,ablack,something,even more strange thing,7,Fair,15.0,15.23,3,35.0,True,2024-03-07 13:36:47
+42,porange,good book,interesting book,2,Very Good,20.0,35.0,3,50.0,True,2024-03-04 19:11:59
+43,tblue,sculpture,good sculptutre,1,Good,300.0,500.0,3,750.0,False,2024-03-07 19:13:18
+44,user1,Garmin GPS,This is a great GPS.,3,Very Good,50.0,70.0,3,99.0,False,2024-02-25 12:22:00
+45,user1,Canon Powershot,Point and shoot!,3,Good,40.0,60.0,3,80.0,False,2024-02-26 13:55:00
+46,user2,Nikon D3,New and in box!,3,New,1500.0,1589.35,3,2000.0,False,2024-03-01 09:19:00
+47,user3,Danish Art Book,Delicious Danish Art,1,Very Good,10.0,10.0,3,15.0,True,2024-03-01 15:33:00
+48,admin1,SQL in 10 Minutes,Learn SQL really fast!,2,Fair,5.0,10.0,3,12.0,False,2024-03-01 16:48:00
+49,admin2,SQL in 8 Minutes,Learn SQL even faster!,2,Good,5.0,8.0,3,10.0,False,2024-03-04 10:01:00
+50,user6,Pull-up Bar,Works on any door frame.,5,New,20.0,25.0,3,40.0,True,2024-03-05 22:09:00
+51,jgreen,painting,round table,4,New,300.0,500.0,3,750.0,True,2024-03-08 18:17:33
+52,admin1,good book,very good thing,7,Good,35.0,36.21,3,75.0,False,2024-03-13 18:18:46
+53,jgreen,thingy,what is thingy?,1,New,20.0,30.0,3,50.0,False,2024-03-11 18:28:45

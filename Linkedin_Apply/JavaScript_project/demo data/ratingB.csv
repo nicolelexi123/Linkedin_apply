@@ -1,0 +1,26 @@
+rated_by,itemID,rate_datetime,rating,comment
+pbrown,2,2024-02-03 16:36:25,4,very good book
+mred,3,2024-02-03 13:52:21,4,maybe quite useful
+mred,4,2024-02-05 20:54:26,2,this is review of another plant by pbrown
+tblue,10,2024-02-11 05:16:01,0,impossible to rate
+mred,12,2024-02-14 16:15:38,0,and i will chamge this one 
+jgreen,16,2024-02-19 15:10:07,5,dfsd
+ablack,17,2024-02-20 12:31:05,1,impossible to rate
+tblue,19,2024-02-19 04:49:15,1,never saw anything like that
+tblue,20,2024-02-22 17:05:46,2,no so great albom
+jgreen,25,2024-02-24 15:20:51,2,one more useless comment
+pbrown,27,2024-02-26 02:52:59,0,how would I rate it
+pbrown,30,2024-02-24 12:51:26,3,never saw anything like that
+pbrown,32,2024-02-23 20:10:52,2,let me think what I can write
+tblue,34,2024-02-26 07:55:45,4,let me think what I can write
+trichards,35,2024-03-06 01:50:02,4, something to look at
+jsmith,39,2024-03-06 13:14:02,0,very bad sculpture
+ablack,40,2024-03-09 16:11:46,1,never saw anything like that
+ablack,41,2024-03-07 13:37:42,0,not so good something
+porange,42,2024-03-10 03:14:48,1,very nice item
+user1,44,2024-02-27 17:00:00,5,Great GPS!
+user1,45,2024-03-01 19:12:02,1,never saw anything like that
+user2,46,2024-03-04 15:01:35,4,never saw anything like that
+user6,50,2024-03-10 06:58:41,5,so-so
+jgreen,51,2024-03-11 18:16:52,3,etetete
+admin1,52,2024-03-11 18:26:36,4,really bvery good
